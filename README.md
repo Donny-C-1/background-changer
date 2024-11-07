@@ -11,12 +11,11 @@ This Node.js script fetches a new background image and an inspirational quote ev
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/inspirational-morning-background.git
-   cd inspirational-morning-background
+   git clone https://github.com/Donny-C-1/background-changer.git
+   cd background-changer
 2. **Install Dependencies**:
     ```bash
-   git clone https://github.com/yourusername/inspirational-morning-background.git
-   cd inspirational-morning-background
+   npm i
 
 ## Configuration
 Create a `.env` file in your root directory with the variable:
