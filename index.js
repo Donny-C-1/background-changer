@@ -4,8 +4,8 @@ const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 const { createCanvas, loadImage } = require("canvas");
 const path = require("path");
-const Connected = require("./connection.js");
-const { prompt, styling } = require("./prompt.js");
+const Connected = require("./scripts/connection.js");
+const { prompt, styling } = require("./scripts/prompt.js");
 
 const PORT = 3000;
 
