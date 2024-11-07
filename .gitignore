@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment 
+.Environment
+
+# Log Files
+logs/
+
+# Desktop Files
+desktop.ini
